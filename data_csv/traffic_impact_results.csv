@@ -1,0 +1,26 @@
+scenario_id,scenario_name,congested_edge,multiplier,origin,destination,original_route,original_time_mins,congested_route,congested_time_mins,delay_mins,pct_increase,rerouted
+SCEN_01,Cyber City Evening Gridlock,B-C,4.0,A,D,A -> B -> D,9.0,A -> B -> D,9.0,0.0,0.0,False
+SCEN_01,Cyber City Evening Gridlock,B-C,4.0,A,G,A -> B -> D -> G,14.0,A -> B -> D -> G,14.0,0.0,0.0,False
+SCEN_01,Cyber City Evening Gridlock,B-C,4.0,C,G,C -> B -> D -> G,11.0,C -> D -> G,12.0,1.0,9.09,True
+SCEN_01,Cyber City Evening Gridlock,B-C,4.0,I,H,I -> C -> F -> H,14.0,I -> C -> F -> H,14.0,0.0,0.0,False
+SCEN_01,Cyber City Evening Gridlock,B-C,4.0,B,J,B -> E -> J,8.0,B -> E -> J,8.0,0.0,0.0,False
+SCEN_02,Skyport Flyover Maintenance,D-G,3.0,A,D,A -> B -> D,9.0,A -> B -> D,9.0,0.0,0.0,False
+SCEN_02,Skyport Flyover Maintenance,D-G,3.0,A,G,A -> B -> D -> G,14.0,A -> B -> E -> G,16.0,2.0,14.29,True
+SCEN_02,Skyport Flyover Maintenance,D-G,3.0,C,G,C -> B -> D -> G,11.0,C -> B -> E -> G,13.0,2.0,18.18,True
+SCEN_02,Skyport Flyover Maintenance,D-G,3.0,I,H,I -> C -> F -> H,14.0,I -> C -> F -> H,14.0,0.0,0.0,False
+SCEN_02,Skyport Flyover Maintenance,D-G,3.0,B,J,B -> E -> J,8.0,B -> E -> J,8.0,0.0,0.0,False
+SCEN_03,Federal Corridor Closure,D-E,5.0,A,D,A -> B -> D,9.0,A -> B -> D,9.0,0.0,0.0,False
+SCEN_03,Federal Corridor Closure,D-E,5.0,A,G,A -> B -> D -> G,14.0,A -> B -> D -> G,14.0,0.0,0.0,False
+SCEN_03,Federal Corridor Closure,D-E,5.0,C,G,C -> B -> D -> G,11.0,C -> B -> D -> G,11.0,0.0,0.0,False
+SCEN_03,Federal Corridor Closure,D-E,5.0,I,H,I -> C -> F -> H,14.0,I -> C -> F -> H,14.0,0.0,0.0,False
+SCEN_03,Federal Corridor Closure,D-E,5.0,B,J,B -> E -> J,8.0,B -> E -> J,8.0,0.0,0.0,False
+SCEN_04,Maritime Freight Spill,A-I,4.0,A,D,A -> B -> D,9.0,A -> B -> D,9.0,0.0,0.0,False
+SCEN_04,Maritime Freight Spill,A-I,4.0,A,G,A -> B -> D -> G,14.0,A -> B -> D -> G,14.0,0.0,0.0,False
+SCEN_04,Maritime Freight Spill,A-I,4.0,C,G,C -> B -> D -> G,11.0,C -> B -> D -> G,11.0,0.0,0.0,False
+SCEN_04,Maritime Freight Spill,A-I,4.0,I,H,I -> C -> F -> H,14.0,I -> C -> F -> H,14.0,0.0,0.0,False
+SCEN_04,Maritime Freight Spill,A-I,4.0,B,J,B -> E -> J,8.0,B -> E -> J,8.0,0.0,0.0,False
+SCEN_05,Riverbank Heavy Rainstorm,F-H,3.0,A,D,A -> B -> D,9.0,A -> B -> D,9.0,0.0,0.0,False
+SCEN_05,Riverbank Heavy Rainstorm,F-H,3.0,A,G,A -> B -> D -> G,14.0,A -> B -> D -> G,14.0,0.0,0.0,False
+SCEN_05,Riverbank Heavy Rainstorm,F-H,3.0,C,G,C -> B -> D -> G,11.0,C -> B -> D -> G,11.0,0.0,0.0,False
+SCEN_05,Riverbank Heavy Rainstorm,F-H,3.0,I,H,I -> C -> F -> H,14.0,I -> C -> F -> J -> H,18.0,4.0,28.57,True
+SCEN_05,Riverbank Heavy Rainstorm,F-H,3.0,B,J,B -> E -> J,8.0,B -> E -> J,8.0,0.0,0.0,False

@@ -1,0 +1,6 @@
+scenario_id,scenario_name,source,target,multiplier,cause,severity
+SCEN_01,Cyber City Evening Gridlock,B,C,4,Peak Commute Rush,High
+SCEN_02,Skyport Flyover Maintenance,D,G,3,Structural Overhaul,Critical
+SCEN_03,Federal Corridor Closure,D,E,5,VIP Cavalcade Movement,High
+SCEN_04,Maritime Freight Spill,A,I,4,Cargo Clean-up Operation,Medium
+SCEN_05,Riverbank Heavy Rainstorm,F,H,3,Waterlogging and Low Visibility,Medium

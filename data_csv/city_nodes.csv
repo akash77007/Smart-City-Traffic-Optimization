@@ -1,0 +1,11 @@
+node_id,name,zone,x,y
+A,Metro Central,Commercial,25,45
+B,Northern Gateway,Transport Hub,30,85
+C,Cyber City,Industrial,45,25
+D,Tech University,Educational,65,85
+E,Capital District,Government,60,50
+F,Riverside Wharf,Commercial,75,15
+G,Skyport Aerocity,Transport Hub,90,80
+H,Pine Valley,Residential,95,35
+I,Maritime Logistics,Industrial,10,30
+J,Sunset Heights,Residential,85,55

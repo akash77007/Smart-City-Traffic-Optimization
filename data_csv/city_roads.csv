@@ -1,0 +1,20 @@
+source,target,weight,road_type,speed_limit,lanes
+A,B,5,Northlink Arterial,55,4
+A,C,3,Cyber Boulevard,45,2
+A,I,4,Maritime Expressway,65,4
+B,C,2,Metro Ring Connector,50,2
+B,D,4,Campus Radial,55,4
+B,E,5,Premier Avenue,45,3
+C,D,7,Silicon Crosslink,40,2
+C,F,4,Riverbank Bypass,50,2
+C,I,5,Industrial Freightway,35,2
+D,E,3,Federal Corridor,50,4
+D,G,5,Skyport Expressway,85,6
+E,F,4,Municipal Way,45,2
+E,G,6,Aerocity Freeway,75,4
+E,J,3,Heights Connector,55,3
+F,H,5,Valley Parkway,45,2
+F,J,6,Southside Ring,50,2
+G,H,5,Eastern Beltway,80,4
+G,J,4,Skyport Link,70,4
+H,J,3,Pine Ridge Road,40,2
