@@ -183,6 +183,5 @@ python visualization.py
 
 - **Student:** Akash Sharma
 - **Roll Number:** 2401201108
-- **Program:** B.Tech Computer Science & Engineering
-- **Institution:** Department of Computer Science & Engineering
-- **Evaluation:** DAA Lab 5 Capstone Assignment (Submitted via GitHub & ZOSIMA)
+- **Program:** BCA (AI & DS) - Section B
+- **Evaluation:** DAA Capstone Assignment
