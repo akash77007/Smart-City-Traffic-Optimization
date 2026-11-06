@@ -1,7 +1,7 @@
 """
 Phase 3: Network Connectivity Analysis
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Implements:
 1. Breadth-First Search (BFS) for layer-by-layer exploration and hop-count reachability

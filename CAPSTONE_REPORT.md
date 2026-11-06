@@ -5,7 +5,7 @@
 **Author:** Akash Sharma  
 **Roll No:** 2401201108  
 **Date of Submission:** October 28, 2026  
-**Repository:** [https://github.com/bhavyarattan21/smart-city-traffic-optimization-akash](https://github.com/bhavyarattan21/smart-city-traffic-optimization-akash)  
+**Repository:** [https://github.com/akash77007/Smart-City-Traffic-Optimization](https://github.com/akash77007/Smart-City-Traffic-Optimization)  
 
 ---
 

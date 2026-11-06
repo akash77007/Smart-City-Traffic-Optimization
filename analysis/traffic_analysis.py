@@ -1,7 +1,7 @@
 """
 Traffic Congestion Impact & Bottleneck Analysis
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Simulates urban traffic congestion across predefined real-world scenarios,
 quantifies travel delay, rerouting behavior, and system bottlenecks.

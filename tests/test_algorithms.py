@@ -1,7 +1,7 @@
 """
 Unit & Integration Test Suite for Smart City Traffic Management System
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Tests:
 1. CityGraph adjacency list and matrix generation

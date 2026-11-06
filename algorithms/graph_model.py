@@ -1,7 +1,7 @@
 """
 Phase 1: Project Setup & Road Network Modeling
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Represents a smart city road network using both an Adjacency List
 and an Adjacency Matrix data structure.

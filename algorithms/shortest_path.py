@@ -1,7 +1,7 @@
 """
 Phase 2: Route Planning & Traffic Analysis
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Implements:
 1. Dijkstra's Algorithm (Min-Priority Queue via heapq)

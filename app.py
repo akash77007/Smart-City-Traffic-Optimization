@@ -1,7 +1,7 @@
 """
 Streamlit Web Application: Smart City Traffic Management & Route Optimization
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 An interactive web dashboard for urban traffic engineers and city administrators:
 - Interactive Route Planning (Dijkstra & Bellman-Ford)

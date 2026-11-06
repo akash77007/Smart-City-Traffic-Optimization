@@ -2,7 +2,7 @@
 Interactive Command Line Interface (CLI)
 Smart City Traffic Management and Route Optimization System
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Allows interactive execution of:
 1. Shortest Route computation (Dijkstra vs Bellman-Ford)

@@ -186,7 +186,7 @@ def build_pdf_report(
     <b>Course:</b> Design and Analysis of Algorithms (DAA) — Lab 5 Capstone Assignment (Option A)<br/>
     <b>Author:</b> Akash Sharma &nbsp;|&nbsp; <b>Roll No:</b> 2401201108<br/>
     <b>Date of Submission:</b> October 28, 2026 &nbsp;|&nbsp; <b>Evaluation Platform:</b> ZOSIMA<br/>
-    <b>Repository:</b> https://github.com/bhavyarattan21/smart-city-traffic-optimization-akash
+    <b>Repository:</b> https://github.com/akash77007/Smart-City-Traffic-Optimization
     """
     story.append(Paragraph(meta_text, meta_style))
     story.append(Spacer(1, 14))

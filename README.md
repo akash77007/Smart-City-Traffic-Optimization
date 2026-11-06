@@ -9,7 +9,7 @@
 > **Course:** Design and Analysis of Algorithms (DAA)  
 > **Lab 5:** Capstone Assignment — Option A  
 > **Author:** Akash Sharma (Roll No: 2401201108)  
-> **Repository:** [bhavyarattan21/smart-city-traffic-optimization-akash](https://github.com/bhavyarattan21/smart-city-traffic-optimization-akash)
+> **Repository:** [akash77007/Smart-City-Traffic-Optimization](https://github.com/akash77007/Smart-City-Traffic-Optimization)
 
 ---
 
@@ -126,7 +126,7 @@ DAA capstone assign/
 
 ### Step 1: Clone or Open Workspace
 ```bash
-git clone https://github.com/bhavyarattan21/smart-city-traffic-optimization-akash.git
+git clone https://github.com/akash77007/Smart-City-Traffic-Optimization.git
 cd "DAA capstone assign"
 ```
 

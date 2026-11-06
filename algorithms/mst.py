@@ -1,7 +1,7 @@
 """
 Phase 4: Infrastructure Planning & Comparative Analysis
 Author: Akash Sharma (Roll No: 2401201108)
-Repository: bhavyarattan21/smart-city-traffic-optimization-akash
+Repository: akash77007/Smart-City-Traffic-Optimization
 
 Implements:
 1. Prim's Algorithm (Min-Heap based MST construction)
